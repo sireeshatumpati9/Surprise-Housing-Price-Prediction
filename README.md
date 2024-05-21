@@ -29,8 +29,8 @@ Train - 0.934390
 Test - 0.896722 
 
 iii) R2 Score for Lasso:
-0.944886  for train 
-0.896294  for test
+Train - 0.944886  
+Test - 0.896294 
 
 iv) Most important Predictor variable based on both the models is GrLivArea
 Ridge model has been chosen due to the high number of predictor variables.
@@ -39,4 +39,4 @@ Ridge model has been chosen due to the high number of predictor variables.
 - Python - Ver 3.11.5
 
 ## Contact
-Created by [@@sireeshatumpati9] - feel free to contact me!
+Created by [@sireeshatumpati9] - feel free to contact me!
